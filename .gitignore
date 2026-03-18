@@ -1,0 +1,4 @@
+node_modules/
+dist/
+src/commands/
+.DS_Store
